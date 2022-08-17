@@ -1,0 +1,13 @@
+@import "../../../../index.css";
+
+.about_respo {
+  direction: rtl;
+  font-family: IRANSans;
+  width: 135%;
+  padding: 10px 5px;
+  border: solid 1px #fafafa;
+  border-radius: 15px;
+  background: #fff;
+  padding: 2em 10px;
+  margin-bottom: 40px;
+}
